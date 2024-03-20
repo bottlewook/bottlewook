@@ -17,51 +17,51 @@
 
 ![trophy](https://github-readme-stats.vercel.app/api?username=bottlewook&theme=blue-green)
 
-## ⚒️ Skiils
-
-**프로그래밍 언어**<br />
+## 🖐️ Programming Language<br />
 ![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-**프레임워크**<br />
+## 🍺 Framework<br />
 ![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-**스타일**<br />
+## 📚 Style<br />
 ![Sass](https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-**전역 상태 관리**<br />
+## 🚀 Status management<br />
 ![ReduxToolkit](https://img.shields.io/badge/redux_toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
-**테스팅**<br />
+## 🏝️ Testing<br />
 ![Vitest](https://img.shields.io/badge/vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 ![Storybook](https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 ![MockServiceWorker](https://img.shields.io/badge/mock_service_worker-FF6A33?style=for-the-badge&logo=mockserviceworker&logoColor=white)
 ![Testing Library](https://img.shields.io/badge/testing_library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 
-**협업 툴**<br />
+## 🚦 Collaboration  Tool<br />
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Slack](https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-**버전 관리**<br />
+## 🏕️ Version Control<br />
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-**API**<br />
+## ⛪️ API<br />
 ![Axios](https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 
-**라이브러리**<br />
+## 📒 Library<br />
 ![TanstackQuery](https://img.shields.io/badge/tanstack_query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/react_hook_form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
 ![Swiper](https://img.shields.io/badge/swiper-6332F6?style=for-the-badge&logo=swiper&logoColor=white)
 
-**배포**<br>
+## 📍 Deploy<br>
 ![AMAZON EC2](https://img.shields.io/badge/AMAZON_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
 ![DOCKER](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Chromatic](https://img.shields.io/badge/chromatic-FC521F?style=for-the-badge&logo=chromatic&logoColor=white)
 
-**그 외**<br />
+## 🦠 ETC<br />
 ![Eslint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
 ![Style_Lint](https://img.shields.io/badge/style_lint-263238?style=for-the-badge&logo=stylelint&logoColor=white)
 
@@ -69,4 +69,4 @@
 
 
 ##
-<p align="center"> © 2024Creative bottlewook Ali, all rights reserved. Made with ❤️ </p>
+<p align="center"> © 2024Creative bottlewook Ali, all rights reserved. </p>
