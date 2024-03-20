@@ -27,6 +27,7 @@
 
 ## 📚 Style<br />
 ![Sass](https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Styled-components](https://img.shields.io/badge/styled_components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white)
 
 ## 🚀 Status management<br />
 ![TanstackQuery](https://img.shields.io/badge/tanstack_query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
