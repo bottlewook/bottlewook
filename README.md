@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning...
+- 🌱 I’m currently learning nest.js
 
 - 💬 Ask me about **Software Engineering**
 
