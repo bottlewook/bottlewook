@@ -69,4 +69,4 @@
 
 
 ##
-<p align="center"> © 2024 Creative bottlewook Ali, all rights reserved. </p>
+<p align="center"> © 2024 Creative bottlewook, all rights reserved. </p>
