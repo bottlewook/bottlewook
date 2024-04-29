@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning nest.js and express
+- 🌱 I’m currently learning nest.js and react-native
 
 - 💬 Ask me about **Software Engineering**
 
